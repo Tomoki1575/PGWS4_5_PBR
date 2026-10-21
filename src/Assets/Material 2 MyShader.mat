@@ -77,6 +77,18 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_47e7412037c54d0596376cf4a4080ff1_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 8b899fa15f7b92247837d88359b55dea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_94206ca877c64b4fb559b06d0d0f0d6d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 8a82a6b0b49378949af235c3768aeb38, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f9be6061d9a0464b9d5bb5059f0d4330_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 98082111fa9353743ae985df62eacd79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -119,6 +131,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _ShineInterval: 4
+    - _ShineSpeed: 0.5
+    - _ShineWidth: 0.1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -132,6 +147,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ShineColor: {r: 4.433468, g: 4.433468, b: 4.433468, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
